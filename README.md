@@ -1,4 +1,4 @@
-# Stock Analysis Tool - README
+# Stock Analysis Tool
 
 ## Overview
 This Stock Analysis Tool is an Excel-based VBA (Visual Basic for Applications) application designed to analyze stock data across multiple worksheets in an Excel workbook. It calculates yearly changes, percent changes, and total stock volumes for each stock ticker. Additionally, it identifies the greatest percent increase, greatest percent decrease, and greatest total volume for stocks.
